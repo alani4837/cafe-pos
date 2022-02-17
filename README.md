@@ -1,4 +1,4 @@
-# thewaiter
+# cafe pos
 
 Simple MVP of app which helps ordering inside a restaurant.
 
